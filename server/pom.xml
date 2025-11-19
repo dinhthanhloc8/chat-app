@@ -13,7 +13,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-        <main.class>com.truongphuc.ChatApplication</main.class>
+        <main.class>com.thanhloc.ChatApplication</main.class>
 
         <tomcat.verion>10.1.26</tomcat.verion>
 
